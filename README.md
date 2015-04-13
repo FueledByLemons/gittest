@@ -3,5 +3,5 @@
 ## SUBHEADER
 
 '''
-Code blockfor commands you may want users to type
+Code block for commands you may want users to type
 '''
